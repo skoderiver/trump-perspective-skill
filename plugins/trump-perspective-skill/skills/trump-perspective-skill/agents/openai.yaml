@@ -1,0 +1,5 @@
+interface:
+  display_name: "特朗普视角"
+  short_description: "用特朗普框架分析谈判、权力、传播、行为预判与风格模拟"
+  default_prompt: "Use $trump-perspective-skill to analyze this issue from the Trump perspective and explain the likely next move."
+  brand_color: "#C62828"

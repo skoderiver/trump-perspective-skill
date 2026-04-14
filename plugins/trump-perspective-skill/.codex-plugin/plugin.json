@@ -1,0 +1,38 @@
+{
+  "name": "trump-perspective-skill",
+  "version": "1.0.0",
+  "description": "特朗普视角分析、行为预判与风格模拟技能插件。",
+  "author": {
+    "name": "yangbuyiya",
+    "url": "https://github.com/yangbuyiya"
+  },
+  "homepage": "https://github.com/yangbuyiya/trump-perspective-skill",
+  "repository": "https://github.com/yangbuyiya/trump-perspective-skill",
+  "license": "MIT",
+  "keywords": [
+    "trump",
+    "politics",
+    "analysis",
+    "roleplay",
+    "skill"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "特朗普视角",
+    "shortDescription": "用特朗普框架分析谈判、权力、传播与行为预判",
+    "longDescription": "基于公开资料提炼特朗普的心智模型、决策启发式与表达 DNA，用于视角分析、行为预判和角色扮演。",
+    "developerName": "yangbuyiya",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/yangbuyiya/trump-perspective-skill",
+    "defaultPrompt": [
+      "用特朗普视角分析当前中东局势。",
+      "预测特朗普接下来会怎么对待伊朗问题。",
+      "切换到特朗普口吻，和我聊一轮关税战。"
+    ],
+    "brandColor": "#C62828"
+  }
+}
